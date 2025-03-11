@@ -134,7 +134,7 @@ function App() {
       <Divider flexItem />
 
       <Button sx={{ margin: 8 }} variant="contained" onClick={fetchData}>
-        Fetch data
+        Refresh data
       </Button>
     </Container>
   );
